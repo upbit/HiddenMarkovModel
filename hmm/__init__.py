@@ -1,0 +1,5 @@
+"""
+HiddenMarkovModel
+"""
+
+from HiddenMarkovModel import *
